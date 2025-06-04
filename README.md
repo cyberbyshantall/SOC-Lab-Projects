@@ -1,4 +1,4 @@
-# SOC-Lab-Projects
+# Home SOC Lab Simulation
 
 ## Overview
 This project simulates a basic Security Operations Center (SOC) using virtual machines and open-source SIEM tools.
